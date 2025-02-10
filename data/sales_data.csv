@@ -1,0 +1,201 @@
+Fecha,Producto,Cantidad,Precio Unitario,Total Venta
+2025-01-14,Queso Majorero,5,14.08,70.42
+2025-01-03,Gofio,4,26.14,104.55
+2025-02-04,Dulce de Membrillo,2,22.87,45.74
+2025-01-09,Gofio,3,26.76,80.29
+2025-01-07,Vino Tinto Canario,1,29.14,29.14
+2025-01-25,Dulce de Membrillo,4,10.84,43.36
+2025-01-05,Gofio,1,11.97,11.97
+2025-01-15,Gofio,5,16.63,83.16
+2025-01-03,Gofio,3,23.75,71.26
+2025-01-18,Queso Majorero,3,13.54,40.62
+2025-01-03,Queso Majorero,3,16.1,48.31
+2025-01-03,Gofio,3,15.69,47.07
+2025-01-31,Aceite de Oliva,5,10.97,54.84
+2025-01-19,Dulce de Membrillo,3,26.19,78.57
+2025-01-19,Queso Majorero,1,14.38,14.38
+2025-02-02,Vino Tinto Canario,2,22.17,44.34
+2025-01-05,Aceite de Oliva,4,20.77,83.07
+2025-01-13,Aceite de Oliva,3,25.74,77.23
+2025-01-18,Queso Majorero,4,12.4,49.59
+2025-01-19,Queso Majorero,5,27.57,137.86
+2025-01-10,Vino Tinto Canario,5,20.58,102.9
+2025-01-10,Queso Majorero,1,18.21,18.21
+2025-01-31,Queso Majorero,4,18.85,75.4
+2025-01-30,Vino Tinto Canario,2,11.9,23.79
+2025-01-02,Dulce de Membrillo,3,25.97,77.91
+2025-01-28,Queso Majorero,2,16.11,32.22
+2025-01-31,Dulce de Membrillo,2,14.6,29.2
+2025-01-13,Gofio,5,21.05,105.24
+2025-01-29,Aceite de Oliva,2,23.53,47.06
+2025-01-03,Dulce de Membrillo,2,17.43,34.87
+2025-01-20,Queso Majorero,4,24.11,96.45
+2025-01-19,Queso Majorero,1,12.92,12.92
+2025-02-03,Aceite de Oliva,1,21.52,21.52
+2025-01-25,Vino Tinto Canario,5,21.59,107.94
+2025-01-08,Gofio,4,19.95,79.8
+2025-01-30,Dulce de Membrillo,3,13.18,39.54
+2025-01-15,Gofio,4,10.18,40.71
+2025-01-07,Aceite de Oliva,4,14.73,58.9
+2025-02-07,Queso Majorero,1,24.32,24.32
+2025-01-03,Dulce de Membrillo,3,23.78,71.34
+2025-01-24,Queso Majorero,2,10.34,20.68
+2025-01-26,Dulce de Membrillo,5,27.11,135.54
+2025-01-10,Vino Tinto Canario,2,19.32,38.64
+2025-01-26,Gofio,5,24.33,121.67
+2025-01-07,Gofio,2,10.58,21.16
+2025-02-08,Gofio,4,11.69,46.77
+2025-01-11,Queso Majorero,3,25.93,77.8
+2025-01-23,Dulce de Membrillo,5,19.38,96.88
+2025-01-20,Aceite de Oliva,5,11.62,58.11
+2025-01-26,Vino Tinto Canario,2,20.11,40.22
+2025-01-18,Queso Majorero,4,12.42,49.68
+2025-01-26,Gofio,1,11.51,11.51
+2025-01-29,Aceite de Oliva,3,22.48,67.43
+2025-01-28,Dulce de Membrillo,2,14.13,28.25
+2025-01-01,Dulce de Membrillo,3,20.4,61.21
+2025-01-22,Queso Majorero,4,19.95,79.82
+2025-01-26,Queso Majorero,2,20.97,41.95
+2025-01-27,Dulce de Membrillo,4,19.11,76.46
+2025-01-02,Gofio,1,17.42,17.42
+2025-01-19,Gofio,4,13.19,52.75
+2025-02-02,Gofio,2,22.18,44.36
+2025-01-05,Dulce de Membrillo,1,29.36,29.36
+2025-01-16,Aceite de Oliva,2,18.35,36.69
+2025-02-04,Queso Majorero,2,27.33,54.65
+2025-01-09,Dulce de Membrillo,5,10.33,51.66
+2025-01-25,Queso Majorero,2,13.45,26.9
+2025-01-01,Queso Majorero,2,10.77,21.53
+2025-01-03,Aceite de Oliva,1,18.44,18.44
+2025-01-15,Aceite de Oliva,5,12.39,61.97
+2025-01-29,Vino Tinto Canario,3,13.98,41.95
+2025-01-20,Gofio,3,14.37,43.1
+2025-01-21,Aceite de Oliva,3,20.66,61.99
+2025-01-31,Queso Majorero,5,15.36,76.82
+2025-01-13,Gofio,2,24.16,48.32
+2025-01-20,Queso Majorero,3,13.36,40.08
+2025-01-15,Dulce de Membrillo,5,22.41,112.04
+2025-02-06,Gofio,1,22.39,22.39
+2025-02-03,Vino Tinto Canario,2,19.09,38.18
+2025-01-16,Dulce de Membrillo,5,16.27,81.35
+2025-01-26,Aceite de Oliva,4,29.07,116.29
+2025-01-04,Gofio,5,15.02,75.08
+2025-01-23,Aceite de Oliva,3,11.54,34.62
+2025-01-16,Aceite de Oliva,1,20.72,20.72
+2025-01-21,Aceite de Oliva,5,19.87,99.33
+2025-01-12,Vino Tinto Canario,5,29.92,149.58
+2025-01-04,Aceite de Oliva,2,14.9,29.8
+2025-01-08,Aceite de Oliva,2,25.03,50.05
+2025-01-10,Vino Tinto Canario,4,20.56,82.24
+2025-01-16,Vino Tinto Canario,3,25.89,77.68
+2025-01-25,Vino Tinto Canario,2,14.97,29.93
+2025-01-15,Gofio,1,18.21,18.21
+2025-01-20,Queso Majorero,5,21.48,107.42
+2025-01-08,Queso Majorero,3,26.73,80.19
+2025-01-15,Queso Majorero,4,20.96,83.84
+2025-01-18,Aceite de Oliva,3,23.48,70.43
+2025-01-23,Dulce de Membrillo,1,13.79,13.79
+2025-01-05,Dulce de Membrillo,2,22.76,45.52
+2025-01-12,Queso Majorero,2,16.49,32.99
+2025-01-14,Aceite de Oliva,2,27.49,54.97
+2025-01-12,Aceite de Oliva,5,13.84,69.22
+2025-01-03,Gofio,3,18.43,55.28
+2025-01-09,Dulce de Membrillo,2,29.79,59.57
+2025-02-06,Vino Tinto Canario,3,24.67,74.02
+2025-01-22,Gofio,5,20.12,100.62
+2025-01-19,Vino Tinto Canario,1,20.29,20.29
+2025-01-21,Dulce de Membrillo,4,27.45,109.82
+2025-01-21,Queso Majorero,2,16.6,33.2
+2025-01-25,Aceite de Oliva,3,25.15,75.46
+2025-01-17,Aceite de Oliva,4,24.66,98.62
+2025-01-06,Gofio,5,11.55,57.73
+2025-01-09,Queso Majorero,1,21.07,21.07
+2025-02-07,Aceite de Oliva,2,29.91,59.81
+2025-01-27,Aceite de Oliva,3,21.54,64.62
+2025-02-01,Vino Tinto Canario,5,28.36,141.78
+2025-02-07,Gofio,1,24.69,24.69
+2025-01-07,Vino Tinto Canario,2,10.92,21.83
+2025-01-01,Gofio,5,29.04,145.2
+2025-02-07,Aceite de Oliva,4,24.21,96.84
+2025-01-03,Queso Majorero,1,11.7,11.7
+2025-01-22,Vino Tinto Canario,4,17.99,71.95
+2025-01-18,Dulce de Membrillo,4,22.08,88.33
+2025-01-30,Gofio,1,29.98,29.98
+2025-01-26,Dulce de Membrillo,4,21.12,84.47
+2025-01-01,Dulce de Membrillo,3,18.5,55.5
+2025-02-05,Gofio,3,24.05,72.14
+2025-02-02,Queso Majorero,4,12.73,50.93
+2025-01-02,Gofio,5,25.79,128.94
+2025-01-02,Dulce de Membrillo,4,29.41,117.66
+2025-01-24,Queso Majorero,1,14.48,14.48
+2025-01-24,Queso Majorero,2,24.7,49.4
+2025-01-14,Queso Majorero,1,14.55,14.55
+2025-01-25,Queso Majorero,5,28.18,140.88
+2025-02-07,Queso Majorero,2,28.05,56.09
+2025-01-15,Aceite de Oliva,3,10.14,30.41
+2025-01-14,Gofio,2,28.97,57.94
+2025-01-24,Dulce de Membrillo,3,13.3,39.89
+2025-01-23,Aceite de Oliva,3,28.68,86.05
+2025-01-21,Gofio,2,18.65,37.3
+2025-01-14,Vino Tinto Canario,4,23.64,94.56
+2025-02-05,Vino Tinto Canario,1,28.82,28.82
+2025-01-12,Dulce de Membrillo,3,27.35,82.06
+2025-01-28,Vino Tinto Canario,1,12.07,12.07
+2025-02-08,Gofio,1,28.95,28.95
+2025-01-30,Queso Majorero,5,29.41,147.04
+2025-02-08,Vino Tinto Canario,5,20.73,103.67
+2025-02-03,Aceite de Oliva,2,22.24,44.48
+2025-01-05,Gofio,2,20.47,40.94
+2025-02-05,Queso Majorero,2,28.53,57.06
+2025-01-08,Dulce de Membrillo,4,10.33,41.32
+2025-01-18,Dulce de Membrillo,2,18.22,36.43
+2025-01-05,Dulce de Membrillo,3,26.97,80.92
+2025-01-09,Gofio,4,19.14,76.56
+2025-01-09,Aceite de Oliva,2,10.76,21.52
+2025-01-09,Queso Majorero,1,15.21,15.21
+2025-02-04,Dulce de Membrillo,5,15.07,75.33
+2025-01-06,Vino Tinto Canario,5,11.4,56.98
+2025-01-16,Gofio,2,23.49,46.98
+2025-01-31,Queso Majorero,4,18.57,74.29
+2025-01-16,Aceite de Oliva,1,25.2,25.2
+2025-01-21,Vino Tinto Canario,5,18.86,94.28
+2025-01-22,Dulce de Membrillo,1,17.65,17.65
+2025-01-09,Vino Tinto Canario,5,12.67,63.34
+2025-01-21,Aceite de Oliva,4,23.69,94.75
+2025-01-15,Gofio,3,12.46,37.38
+2025-01-16,Gofio,2,20.57,41.14
+2025-02-03,Queso Majorero,3,17.11,51.33
+2025-01-14,Queso Majorero,5,17.15,85.77
+2025-01-03,Gofio,2,20.28,40.56
+2025-01-11,Aceite de Oliva,5,28.98,144.92
+2025-02-08,Gofio,1,18.01,18.01
+2025-01-21,Gofio,5,13.09,65.44
+2025-01-24,Aceite de Oliva,2,29.3,58.61
+2025-01-25,Dulce de Membrillo,5,15.39,76.95
+2025-01-17,Gofio,4,17.87,71.48
+2025-01-12,Vino Tinto Canario,2,16.45,32.9
+2025-01-24,Queso Majorero,1,25.75,25.75
+2025-01-30,Aceite de Oliva,2,26.19,52.37
+2025-01-24,Aceite de Oliva,3,28.0,83.99
+2025-01-08,Vino Tinto Canario,3,13.04,39.11
+2025-01-25,Aceite de Oliva,2,27.08,54.15
+2025-02-07,Gofio,3,22.49,67.47
+2025-01-16,Queso Majorero,3,14.4,43.19
+2025-01-26,Aceite de Oliva,1,18.84,18.84
+2025-01-08,Queso Majorero,1,12.32,12.32
+2025-01-25,Aceite de Oliva,3,22.56,67.68
+2025-02-03,Dulce de Membrillo,1,13.04,13.04
+2025-02-05,Dulce de Membrillo,4,24.53,98.14
+2025-01-05,Queso Majorero,3,26.57,79.7
+2025-01-05,Vino Tinto Canario,1,25.07,25.07
+2025-02-03,Aceite de Oliva,5,26.19,130.94
+2025-01-02,Vino Tinto Canario,2,13.02,26.04
+2025-01-21,Dulce de Membrillo,4,17.89,71.56
+2025-01-10,Gofio,5,20.16,100.79
+2025-01-30,Queso Majorero,4,17.23,68.92
+2025-01-18,Dulce de Membrillo,3,28.44,85.32
+2025-02-07,Aceite de Oliva,5,28.96,144.82
+2025-01-04,Dulce de Membrillo,2,29.4,58.8
+2025-01-19,Dulce de Membrillo,2,17.25,34.5
+2025-01-14,Gofio,1,18.98,18.98
+2025-01-25,Aceite de Oliva,1,13.12,13.12
