@@ -1,11 +1,11 @@
 ID Producto,Nombre,Stock Inicial,Stock Actual,Productos Agotados
-3,Dulce de Membrillo,85,10,No
-6,Aceite de Oliva,77,51,No
-2,Vino Tinto Canario,146,107,No
-5,Dulce de Membrillo,147,54,No
-9,Queso Majorero,125,26,No
-8,Gofio,150,109,No
-1,Aceite de Oliva,123,110,No
-5,Queso Majorero,99,69,No
-8,Queso Majorero,127,107,No
-9,Dulce de Membrillo,113,99,No
+7,Vino Tinto Canario,66,47,No
+1,Queso Majorero,104,49,No
+1,Vino Tinto Canario,109,81,No
+4,Aceite de Oliva,119,37,No
+3,Queso Majorero,60,39,No
+3,Gofio,148,80,No
+7,Dulce de Membrillo,124,48,No
+1,Queso Majorero,147,42,No
+5,Aceite de Oliva,56,11,No
+9,Queso Majorero,131,21,No
