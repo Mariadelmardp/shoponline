@@ -147,3 +147,15 @@ for nombre, contenido in dataframes.items():
     else:
         print(contenido[:200])  # Mostrar primeros 200 caracteres si es texto
 '''
+
+def convertir_columnas (df, formato_fecha='%y-%m-%d'):
+  for col in df.columns:
+    for dtype in [float, int]:
+      try:
+       df[col]=df[col].astype(dtype)
+      except:
+       pass
+    try:
+       df[col]=pd.to_datetime(df[col], format=formato_fecha)
+    except: 
+      pass 
