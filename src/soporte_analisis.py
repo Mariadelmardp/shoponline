@@ -159,3 +159,57 @@ def convertir_columnas (df, formato_fecha='%y-%m-%d'):
        df[col]=pd.to_datetime(df[col], format=formato_fecha)
     except: 
       pass 
+  
+
+
+
+def abrir_y_guardar_archivos(ruta_carpeta):
+    """
+    Abre todos los archivos CSV y Excel de una carpeta y los guarda como variables individuales.
+    
+    Parámetros:
+        ruta_carpeta (str): Ruta de la carpeta donde están los archivos.
+    """
+    if not os.path.isdir(ruta_carpeta):
+        raise NotADirectoryError(f"⚠️ La ruta '{ruta_carpeta}' no es una carpeta válida.")
+
+    archivos = os.listdir(ruta_carpeta)
+
+    for archivo in archivos:
+        ruta_archivo = os.path.join(ruta_carpeta, archivo)
+        nombre_variable = os.path.splitext(archivo)[0]  # Elimina la extensión del nombre del archivo
+        extension = os.path.splitext(archivo)[1].lower()
+
+        if os.path.isfile(ruta_archivo):
+            if extension in ['.csv']:
+                globals()[nombre_variable] = pd.read_csv(ruta_archivo)
+            elif extension in ['.xls', '.xlsx']:
+                globals()[nombre_variable] = pd.read_excel(ruta_archivo)
+
+            print(f"✅ Archivo '{archivo}' cargado en la variable: {nombre_variable}")
+    return nombre_variable
+
+def modificar_dataframes():
+    """
+    Aplica modificaciones automáticas en todos los DataFrames creados.
+    - Convierte columnas de fecha a formato datetime.
+    - Convierte texto a minúsculas en columnas de tipo 'object'.
+    """
+    for nombre_variable in list(globals().keys()):  
+        if isinstance(globals()[nombre_variable], pd.DataFrame):
+            df = globals()[nombre_variable]
+
+            # Convertir columnas de fecha automáticamente
+            for col in df.select_dtypes(include=['object']):  
+                try:
+                    df[col] = pd.to_datetime(df[col])
+                    print(f"📅 Columna '{col}' convertida a datetime en '{nombre_variable}'.")
+                except:
+                    pass  # Si no se puede convertir, sigue
+
+            # Convertir texto a minúsculas en columnas de tipo 'object'
+            for col in df.select_dtypes(include=['object']):
+                df[col] = df[col].str.lower()
+                print(f"🔤 Texto en '{col}' convertido a minúsculas en '{nombre_variable}'.")
+
+            globals()[nombre_variable] = df  # Guardar cambios en la variable
