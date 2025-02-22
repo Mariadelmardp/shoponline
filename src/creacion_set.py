@@ -26,7 +26,7 @@ def generate_clients(num_records):
     clients_data = []
     
     for _ in range(num_records):
-        client_id = random.randint(1, num_records)
+        client_id = random.randint(1, num_records +1)
         name = fake.name()
         age = random.randint(18, 65)
         gender = random.choice(["M", "F"])
@@ -124,5 +124,3 @@ traffic_df.to_csv(traffic_file, index=False)
 campaigns_df.to_csv(campaigns_file, index=False)
 inventory_df.to_csv(inventory_file, index=False)
 satisfaction_df.to_csv(satisfaction_file, index=False)
-
-sales_file, clients_file, traffic_file, campaigns_file, inventory_file, satisfaction_file

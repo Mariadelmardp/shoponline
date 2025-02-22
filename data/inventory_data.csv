@@ -1,11 +1,11 @@
 ID Producto,Nombre,Stock Inicial,Stock Actual,Productos Agotados
-1,Plátano de Canarias,77,72,No
-2,Queso Curado,57,24,No
-3,Gofio,126,114,No
-4,Vino blanco afrutado,115,3,No
-5,Dulce de Membrillo,113,94,No
-6,Plátano de Canarias,137,135,No
-7,Aceite de Oliva,61,5,No
-8,Queso Curado,51,46,No
-9,Aceite de Oliva,115,21,No
-10,Plátano de Canarias,65,9,No
+2,Vino Tinto Canario,93,31,No
+7,Aceite de Oliva,122,48,No
+8,Dulce de Membrillo,52,16,No
+8,Aceite de Oliva,124,55,No
+6,Aceite de Oliva,142,108,No
+9,Gofio,141,32,No
+2,Aceite de Oliva,106,18,No
+8,Aceite de Oliva,61,19,No
+6,Gofio,149,82,No
+7,Queso Majorero,71,8,No

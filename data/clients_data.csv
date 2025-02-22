@@ -1,101 +1,101 @@
 ID Cliente,Nombre,Edad,Género,Ubicación,Frecuencia de compra
-49,Nicole Anderson,61,M,Phillipsburgh,Recurrente
-22,Christopher Williams,19,M,South Richard,Ocasional
-52,Brandon Wu,22,M,Jessefort,VIP
-88,Stephanie Brown,64,F,Kingstad,VIP
-28,James Dyer,47,M,Duncanborough,Ocasional
-63,David George,61,F,Lake Loriside,Recurrente
-16,Angel Fuentes,52,M,Samanthaville,VIP
-29,Nicole Stone,42,M,Garciaport,VIP
-29,Dr. Maureen Montgomery MD,32,M,South Stacy,Ocasional
-58,Amy Mack,19,M,East Katherine,Recurrente
-13,Maurice Walsh,53,M,West Cherylport,VIP
-32,Christina Horne,33,F,North Cheryl,Recurrente
-99,Anne Franklin,20,F,Lake Alexanderport,Ocasional
-18,David Rodriguez,37,F,Scottstad,Ocasional
-87,Sandra Miller,52,F,Port Michelleport,Recurrente
-96,David Brown,37,F,Lisatown,Recurrente
-27,Martin Dickson,47,F,Port Raven,VIP
-65,Patrick Adams,40,F,South Jamiefort,VIP
-32,Stephen Joseph,49,M,Lake Kylehaven,Recurrente
-90,Angela Ramos,43,M,Lake William,VIP
-69,Ashley Delgado,65,M,Veronicaton,Ocasional
-95,Edwin Hines,39,M,South Susan,Ocasional
-70,Douglas Randall,48,F,Lake Angelaside,VIP
-69,Paige Lewis,22,M,Nathanside,Ocasional
-79,Shannon Sampson,50,F,Michaelside,Ocasional
-86,Stephanie Mason,55,F,South Ambershire,Recurrente
-84,David Gilbert,50,F,Mandyport,VIP
-72,Roy Morrison,33,M,Robertbury,Ocasional
-14,Joshua Long,61,F,South Sharon,VIP
-90,Julia Evans,54,F,South Jonathanfurt,VIP
-62,Kristin Montes,43,F,East Dawn,Ocasional
-99,Kimberly Gray,20,M,Lesliefort,Ocasional
-53,Abigail Morgan,45,F,Derekside,Recurrente
-88,Dr. Matthew Sandoval,61,M,Lake James,Recurrente
-11,Natasha Knight,22,F,Annastad,VIP
-23,Kelly Moreno,39,F,East Gregmouth,Ocasional
-35,Andrew Cervantes,40,M,Laurenmouth,Ocasional
-17,Catherine Mcdonald,56,M,Hallview,Recurrente
-97,Mr. Michael Hall,34,M,Michaelland,VIP
-21,Victoria Martinez,37,F,Port Bettyburgh,VIP
-49,Kenneth Hess,21,F,Rachelmouth,VIP
-73,David Miller,58,F,Larsonton,VIP
-7,Todd Cunningham,21,M,Paulton,Ocasional
-6,James Good,53,M,New Jenniferton,VIP
-44,Natalie Anderson,42,F,Jenniferville,Ocasional
-93,Jennifer Scott,21,M,Santiagostad,VIP
-95,Hannah Miller,51,F,Kimberlyhaven,Ocasional
-60,Jacqueline Yang,50,M,West Karibury,Ocasional
-53,Christopher Moreno,62,F,New Garyview,Ocasional
-66,Michelle Hall,51,F,Port Sarahport,Ocasional
-98,Teresa Knapp,50,M,Jackmouth,Recurrente
-67,Nicole Byrd,33,F,East John,Ocasional
-34,Mark Collins,25,F,Jasonstad,VIP
-100,Jeremy Morris,47,F,Ashleyfort,Ocasional
-24,Dennis Cantu,40,F,Lake Kimberlymouth,VIP
-62,Michelle Jones,46,F,Kimberlyfurt,Recurrente
-93,David Nunez,34,M,Haroldtown,VIP
-48,Eric Davis,65,M,Barryfurt,VIP
-69,Vernon Nash,64,M,East Edward,VIP
-5,Jennifer Baker,64,F,North Kennethbury,Recurrente
-88,Chloe Moses,28,M,Stevenview,VIP
-87,Sabrina Reid,41,F,Vangport,Ocasional
-32,Gregory May,21,M,Stephenshire,Ocasional
-86,Jessica Johnson,43,F,Henrychester,VIP
-8,Gloria Lambert,30,F,South Daniellestad,VIP
-89,Brad Blackwell,53,F,North Thomasburgh,VIP
-33,Sarah Sandoval,20,M,Autumnville,VIP
-61,Kelly Bailey,18,M,New Maria,VIP
-21,Michael Goodwin,61,M,Knightfort,Ocasional
-98,Laura Welch,59,M,Port William,Recurrente
-39,Rodney Peterson,21,M,South Peggyburgh,Recurrente
-79,Roger Anderson,44,M,Hannahside,Ocasional
-11,Jenna Elliott DDS,54,M,Deanview,Recurrente
-85,Johnathan Bennett,36,F,West Danielle,VIP
-91,Andrew Sosa,64,F,West Christopher,VIP
-29,Kevin Christensen,25,M,Port Wesleyshire,Recurrente
-30,David Jenkins,30,F,Johnfurt,VIP
-97,Juan Horton,31,M,East Wendyfort,Ocasional
-92,Lindsay Casey,38,F,Wintersstad,Recurrente
-15,Walter Cortez,23,F,Gabrielfort,Ocasional
-68,Michael Ortega,40,M,East Heather,Ocasional
-62,Crystal Washington,53,M,West Jason,Ocasional
-79,Jason Bates,43,F,East Billyland,Recurrente
-95,Leah Martinez,21,F,Lake Debbie,Recurrente
-45,Kevin Moore,46,F,New Adam,VIP
-59,Jeffrey Gonzalez,53,F,Olsonland,Ocasional
-86,Matthew Garcia,36,M,Port Monicaville,VIP
-21,Nicole Everett,52,M,Scottstad,VIP
-21,Michael Smith,44,M,Port Katherine,Ocasional
-90,Kimberly Christian,62,M,East James,Ocasional
-26,Chelsea Frey,22,F,New Rodneytown,VIP
-22,Aaron Lee,22,F,East Stephen,Ocasional
-9,Debra Smith,24,F,Riverashire,VIP
-64,Karen Kim,40,F,Smithbury,Ocasional
-7,James Bolton,30,F,South Judyfort,Ocasional
-76,Lawrence Miller,25,M,West Douglas,Recurrente
-10,Teresa Richardson,43,M,New Jessicaborough,VIP
-93,Victoria Sullivan,51,F,Lake Cindy,Recurrente
-69,Andrea Ward,40,F,Lake Deborahfort,Ocasional
-31,Nathan Olson,54,F,New Lorraine,VIP
+37,Amy Glass,41,F,Corytown,VIP
+24,Lisa Allison,26,M,Lake David,VIP
+50,Carolyn Ochoa,57,F,Pattersonview,Recurrente
+3,Chloe Butler,27,M,Brittanyton,Ocasional
+45,Rodney Torres,42,F,Griffinshire,VIP
+21,Mark Weber,23,M,Williammouth,Recurrente
+46,Larry Middleton,19,F,North Stephen,VIP
+40,Andrew Clark,33,M,Lake Kristen,Ocasional
+90,Patrick Moreno,38,M,Contrerasville,Recurrente
+68,Shirley Harvey,29,M,Moorehaven,Recurrente
+35,Brandy Fisher,56,F,South Jenniferfurt,Ocasional
+60,Jason Johnson,47,F,North Elizabethshire,VIP
+54,Morgan Gonzalez,65,F,New Kimberlyshire,Ocasional
+13,Allison Keller,53,M,New Preston,Recurrente
+26,Dawn Salazar,30,F,Evanstown,Recurrente
+100,Sally Cook,63,M,Victorbury,Recurrente
+73,Lance Lewis,56,F,Lake Christopher,Ocasional
+16,Scott Weaver,18,M,Edwardschester,Ocasional
+77,Rita Ward,56,F,North Marytown,Ocasional
+75,Travis Turner,39,M,Hugheschester,Recurrente
+84,Dana Smith,35,M,North Carolyn,Recurrente
+38,Brett English,28,M,North Nathan,Ocasional
+34,Mr. Gilbert Mckinney,21,F,Denisefurt,Recurrente
+57,Laura Hodges,21,M,Monroehaven,Recurrente
+73,Matthew Phillips,48,M,Chadton,VIP
+47,Deborah Parker,60,M,West Erik,VIP
+86,Evelyn Fox,21,M,Griffintown,Recurrente
+93,Felicia Whitehead,51,M,Joseside,Recurrente
+47,Richard Porter,27,M,Cainland,Ocasional
+29,Loretta Collins,41,F,Lake Jessicamouth,VIP
+27,Dana Wagner,32,M,East Charlotteton,Ocasional
+55,Paul Roberts,21,F,Vincentview,Recurrente
+43,William Flores,33,M,Port Ronaldbury,VIP
+65,Carlos Collins Jr.,44,F,Watsonton,Recurrente
+3,Jo Barnes,30,F,Oneillborough,Recurrente
+64,Thomas Avila,29,M,Lake Vickiefort,VIP
+84,Travis Collins,39,M,North Joseph,Recurrente
+2,Seth Yang,58,M,West Nancy,Recurrente
+44,Cole Donaldson,22,M,West Darrell,VIP
+25,Nicole Massey,28,M,North Carolynhaven,Recurrente
+4,Steven Nelson,43,F,Richardsontown,VIP
+18,Joseph Steele,56,M,East Michael,Ocasional
+52,Jesse Martinez,41,F,Phillipview,Ocasional
+94,Susan Vasquez,48,F,Christensenborough,Ocasional
+62,Gail Bailey,54,F,Juliaburgh,Ocasional
+28,Meghan Villa,29,F,North Ethanmouth,Recurrente
+99,Jill Hernandez,36,M,North Kevin,Recurrente
+2,Michael Harrell,52,F,East Robertfort,VIP
+14,Amy Williams,57,F,Lydiaville,VIP
+88,Rebecca Thomas DVM,59,F,Snyderland,VIP
+48,Aaron Wilson,59,F,Mannbury,Ocasional
+83,Nicole Young,58,M,West Johnmouth,Recurrente
+23,Gregory Herring,19,F,North Deanna,Ocasional
+3,Elizabeth Thompson,20,F,Port Carolburgh,Recurrente
+11,Danny Nelson,36,M,North Brandyhaven,Recurrente
+90,Mark Boyd,47,F,Nicolehaven,VIP
+48,Darius Daniel,47,M,South David,VIP
+28,Karen Kelly,64,M,Penamouth,Recurrente
+99,Jill Griffin,59,F,Beverlystad,Ocasional
+1,Gary Dennis,54,F,Hardingshire,VIP
+82,Sydney Chambers,51,M,Christineside,VIP
+12,Timothy Johnson,47,F,New Scott,Ocasional
+60,Tanner Barnes,21,M,Wallacestad,Ocasional
+71,Stephen Price,51,M,Carlamouth,Recurrente
+67,David Mitchell,44,M,West Laurastad,Recurrente
+70,Natasha King,22,F,New William,Recurrente
+61,Megan Martinez,52,M,West Angelica,Ocasional
+49,Gina Stewart,62,F,North Thomasfort,VIP
+9,Melvin Castillo,63,M,Port Daniel,Recurrente
+2,Matthew Martinez,27,F,Nelsonville,Ocasional
+57,Jennifer Petersen,23,F,Lake Cynthia,Recurrente
+88,Claudia Lee,54,F,Payneborough,Recurrente
+93,Scott Rich,38,M,South William,Ocasional
+46,Manuel Fleming,37,M,North James,Ocasional
+75,Vanessa Moss,56,M,Port Sarahview,VIP
+7,Lindsey Ruiz,35,F,North Joseph,Recurrente
+1,Marie Hart,34,F,East Jasmineville,VIP
+30,Kristin Hernandez,43,M,West Kristinland,VIP
+85,Melissa Cabrera,48,M,Rileyfurt,Recurrente
+95,Ronald Ryan,22,F,Rogerberg,Ocasional
+66,Tina Tran,57,F,Brewerhaven,Ocasional
+88,Charles Carr,42,M,Millerberg,Recurrente
+46,Teresa Smith,62,F,Scottbury,Ocasional
+27,Jessica Richmond,36,M,West Lisabury,VIP
+89,Mrs. April Esparza,24,M,South John,VIP
+75,Kelly Williams,49,F,Bradleystad,VIP
+88,Amy Anderson,27,M,Jonesstad,VIP
+55,Latasha Lawson,25,M,East Erikborough,Ocasional
+81,Erica Hunter,28,M,Riveraborough,Recurrente
+51,Richard Blake,65,F,West Roberttown,Ocasional
+68,Michael Ballard,50,F,Warrentown,VIP
+101,Daniel Huang,50,M,Lake Justin,Recurrente
+82,Willie Turner,22,F,Martinezmouth,Ocasional
+68,April Davis,27,M,New Crystaltown,Ocasional
+1,Andrew Lambert,20,M,South Mark,VIP
+91,Miguel Edwards,63,F,New Victoria,Ocasional
+34,Tami Guerrero,52,M,New Jill,Recurrente
+60,Caroline Hernandez,64,M,New Shawn,VIP
+77,Rachel King,23,F,North Jeffrey,Recurrente
+35,Kathleen Parks,60,M,Port Pamelaland,Recurrente
