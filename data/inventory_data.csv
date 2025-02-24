@@ -1,11 +1,11 @@
 ID Producto,Nombre,Stock Inicial,Stock Actual,Productos Agotados
-2,Vino Tinto Canario,93,31,No
-7,Aceite de Oliva,122,48,No
-8,Dulce de Membrillo,52,16,No
-8,Aceite de Oliva,124,55,No
-6,Aceite de Oliva,142,108,No
-9,Gofio,141,32,No
-2,Aceite de Oliva,106,18,No
-8,Aceite de Oliva,61,19,No
-6,Gofio,149,82,No
-7,Queso Majorero,71,8,No
+1,Almogrote,96,25,No
+2,Aceite de Oliva,129,10,No
+3,Licor Plátano de Canarias,123,78,No
+4,Queso Majorero,60,28,No
+5,Gofio,128,47,No
+6,Mojo Picón,142,124,No
+7,Vino Tinto Canario,115,83,No
+8,Miel de Palma,53,24,No
+9,Dulce de Membrillo,52,23,No
+10,Papas Negras de Canarias,65,62,No
