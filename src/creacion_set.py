@@ -70,7 +70,7 @@ def generate_campaigns(num_records):
         
         campaigns_data.append([campaign_id, campaign_type, start_date, end_date, round(budget, 2), impressions, clicks, conversions, roi])
     
-    return pd.DataFrame(campaigns_data, columns=["Campaña ID", "Fecha Inicio", "Fecha Fin", "Tipo de Campaña", "Presupuesto", "Impressions", "Clics", "Conversiones", "ROI"])
+    return pd.DataFrame(campaigns_data, columns=["Campaña ID", "Tipoa de Campaña", "Fecha Inicio", "Fecha Fin", "Presupuesto", "Impressions", "Clics", "Conversiones", "ROI"])
 
 # Función para generar inventario
 def generate_inventory(num_records):

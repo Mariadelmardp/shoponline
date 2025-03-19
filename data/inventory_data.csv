@@ -1,11 +1,11 @@
 ID Producto,Nombre,Stock Inicial,Stock Actual,Productos Agotados
-1,Almogrote,79,18,No
-2,Queso Majorero,68,9,No
-3,Licor Plátano de Canarias,61,22,No
-4,Gofio,94,11,No
-5,Vino Tinto Canario,111,96,No
-6,Aceite de Oliva,144,82,No
-7,Papas Negras de Canarias,144,59,No
-8,Dulce de Membrillo,98,78,No
-9,Miel de Palma,139,79,No
-10,Mojo Picón,111,17,No
+1,Papas Negras de Canarias,115,24,No
+2,Licor Plátano de Canarias,50,30,No
+3,Mojo Picón,127,31,No
+4,Gofio,56,17,No
+5,Dulce de Membrillo,148,34,No
+6,Almogrote,84,0,Sí
+7,Vino Tinto Canario,150,127,No
+8,Queso Majorero,149,50,No
+9,Aceite de Oliva,50,42,No
+10,Miel de Palma,80,78,No
