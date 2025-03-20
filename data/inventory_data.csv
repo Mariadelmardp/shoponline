@@ -1,11 +1,11 @@
-ID Producto,Nombre,Stock Inicial,Stock Actual,Productos Agotados
-1,Papas Negras de Canarias,115,24,No
-2,Licor Plátano de Canarias,50,30,No
-3,Mojo Picón,127,31,No
-4,Gofio,56,17,No
-5,Dulce de Membrillo,148,34,No
-6,Almogrote,84,0,Sí
-7,Vino Tinto Canario,150,127,No
-8,Queso Majorero,149,50,No
-9,Aceite de Oliva,50,42,No
-10,Miel de Palma,80,78,No
+ID Producto,Nombre,SKU,Categoría,Proveedor,Stock Inicial,Stock Actual,Stock Mínimo,Stock Máximo,Costo Unitario,Precio Venta,Margen (%),Estado Stock,Fecha Reposición,Vida Útil (días)
+1,Papas Negras de Canarias,Pf-001-PAP,Productos frescos,Agricultores Tenerife,95,33,40,120,6.75,10.95,62.22,Normal,,30
+2,Licor Plátano de Canarias,B-002-LIC,Bebidas,Destilerías Canarias,44,38,15,60,11.75,19.95,69.79,Normal,,1095
+3,Mojo Picón,Ayc-003-MOJ,Aceites y condimentos,Salsas Canarias,68,51,25,80,3.95,6.95,75.95,Normal,,120
+4,Dulce de Membrillo,Dym-004-DUL,Dulces y mermeladas,Conservas Isleñas,28,17,15,60,4.8,7.95,65.63,Normal,,180
+5,Miel de Palma,Dym-005-MIE,Dulces y mermeladas,Apicultores La Gomera,67,45,20,70,7.95,13.5,69.81,Normal,,730
+6,Gofio,Cyh-006-GOF,Cereales y harinas,Molinos Gran Canaria,33,27,30,90,3.5,6.5,85.71,Normal,,180
+7,Aceite de Oliva,Ayc-007-ACE,Aceites y condimentos,Aceites Canarios S.L.,65,45,30,100,7.5,12.95,72.67,Normal,,365
+8,Queso Majorero,Lyq-008-QUE,Lácteos y quesos,Quesería Fuerteventura,23,12,20,80,9.75,15.95,63.59,Normal,,60
+9,Almogrote,Ayc-009-ALM,Aceites y condimentos,Salsas Gomeras,23,12,15,50,4.95,8.5,71.72,Normal,,90
+10,Vino Tinto Canario,B-010-VIN,Bebidas,Bodegas Tenerife,61,50,40,150,11.25,19.95,77.33,Normal,,730
