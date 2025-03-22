@@ -1,101 +1,101 @@
 ID Cliente,Nombre,Edad,Género,Ubicación,Frecuencia de compra,Fecha de registro,Fuente de adquisición
-1,Juan Carlos Mir-Benavides,63,M,Zaragoza,Una compra,2024-04-19,Redes sociales
-2,Tito Sastre Campos,47,M,Barcelona,Recurrente,2023-08-03,Publicidad pagada
-3,Agustina Roldan Enríquez,37,F,Santa Cruz de Tenerife,Una compra,2023-07-25,Búsqueda orgánica
-4,Alejo Pou Mena,67,M,La Laguna,Ocasional,2023-12-11,Email marketing
-5,Borja del Bayona,29,M,La Laguna,Ocasional,2023-08-05,Publicidad pagada
-6,Marc Roldán Correa,36,M,La Laguna,Ocasional,2025-02-26,Redes sociales
-7,Che Briones-Tomas,49,M,Madrid,Ocasional,2023-10-22,Recomendación
-8,Aarón Palacios Abellán,42,M,Madrid,Recurrente,2023-08-17,Recomendación
-9,Victoria Escrivá Crespi,22,F,Las Palmas de Gran Canaria,Una compra,2023-06-21,Redes sociales
-10,Estela Melero Simó,49,F,Extranjero,Una compra,2024-02-12,Búsqueda orgánica
-11,Belen Estevez,42,F,Santa Cruz de Tenerife,Una compra,2023-04-17,Evento gastronómico
-12,Tadeo Conde Anguita,35,M,Las Palmas de Gran Canaria,Una compra,2025-03-07,Publicidad pagada
-13,Juan Francisco Mariño,43,M,Valencia,Ocasional,2023-04-05,Email marketing
-14,Nicolás Aragón Flores,60,M,Barcelona,Ocasional,2023-05-07,Búsqueda orgánica
-15,Matías Maldonado Santiago,49,M,Arrecife,VIP,2025-02-08,Búsqueda orgánica
-16,Alfredo Requena-Falcó,54,M,Barcelona,Ocasional,2024-12-31,Recomendación
-17,Zaida Palmer,18,F,Madrid,Ocasional,2024-10-11,Búsqueda orgánica
-18,Iris Hoz Sedano,33,F,Madrid,Una compra,2023-05-03,Recomendación
-19,Valentín Macias Bosch,35,M,La Laguna,Recurrente,2023-12-25,Redes sociales
-20,Marc Cervantes Bautista,19,M,Arrecife,Una compra,2025-01-06,Evento gastronómico
-21,Virgilio Rufino Serna Meléndez,25,M,Madrid,Recurrente,2023-09-15,Redes sociales
-22,Clara Conde Doménech,45,F,Santa Cruz de Tenerife,Ocasional,2025-03-09,Redes sociales
-23,Vanesa Medina,41,F,Madrid,Una compra,2024-10-14,Evento gastronómico
-24,Jacinta Hilda Jaén Tomás,58,F,La Laguna,VIP,2023-03-28,Recomendación
-25,Eusebia Llobet Blanca,27,F,Madrid,Una compra,2024-02-15,Publicidad pagada
-26,Fito Palomino-Lucas,54,M,Alicante,Ocasional,2023-05-13,Búsqueda orgánica
-27,Ale Mesa Delgado,44,F,Barcelona,Una compra,2023-07-12,Recomendación
-28,Encarnita Ocaña Trujillo,65,F,Zaragoza,Una compra,2024-08-16,Búsqueda orgánica
-29,Calixto Ibán Ariño Mayol,31,M,Madrid,Recurrente,2023-09-21,Evento gastronómico
-30,Gregorio Pellicer Carro,58,M,Valencia,Recurrente,2024-09-21,Recomendación
-31,Íngrid Carbó Doménech,49,F,Alicante,Una compra,2023-03-22,Redes sociales
-32,Yolanda Castañeda,30,F,La Laguna,Una compra,2024-09-09,Redes sociales
-33,Desiderio Blazquez-Fuster,28,M,Madrid,Una compra,2025-02-08,Publicidad pagada
-34,Ámbar Bas Ródenas,45,F,Madrid,Ocasional,2024-10-22,Publicidad pagada
-35,Soraya Pinedo Roselló,28,F,Barcelona,Ocasional,2024-12-27,Redes sociales
-36,Jose Luis Berrocal Carrasco,28,M,Santa Cruz de Tenerife,Una compra,2024-05-05,Búsqueda orgánica
-37,Dulce Andres,27,F,Valencia,Ocasional,2025-03-19,Búsqueda orgánica
-38,Sara Santiago,80,F,Madrid,Una compra,2024-05-17,Evento gastronómico
-39,Maristela Palomo Atienza,48,F,Las Palmas de Gran Canaria,Una compra,2023-08-15,Recomendación
-40,Angelino Páez Portillo,36,M,Bilbao,Una compra,2023-12-07,Búsqueda orgánica
-41,Emperatriz Viana Carro,36,F,La Laguna,VIP,2023-05-11,Recomendación
-42,Adelaida Margarita Antúnez Losada,33,F,Puerto del Rosario,Ocasional,2024-05-13,Email marketing
-43,Rebeca Parejo Bas,44,F,Las Palmas de Gran Canaria,Una compra,2023-05-11,Evento gastronómico
-44,Amanda Herrero Miguel,80,F,Alicante,Recurrente,2023-06-09,Redes sociales
-45,Aurelio Romeu Amador,54,M,Santa Cruz de La Palma,Ocasional,2023-09-22,Búsqueda orgánica
-46,Sandra Franch Comas,20,F,Málaga,Una compra,2025-03-05,Búsqueda orgánica
-47,Daniel Carbó,41,M,La Laguna,Una compra,2024-04-18,Publicidad pagada
-48,Esperanza Verdú Suarez,37,F,Santa Cruz de Tenerife,Ocasional,2024-02-28,Búsqueda orgánica
-49,Ángeles Silvia Martín Ledesma,45,F,Madrid,Una compra,2023-11-14,Redes sociales
-50,Eutropio Perez-Cobo,51,M,Extranjero,Una compra,2023-11-18,Evento gastronómico
-51,Florina Pinedo Arroyo,24,F,Barcelona,Una compra,2024-04-02,Recomendación
-52,Gilberto Alcolea Ugarte,31,M,Barcelona,Recurrente,2023-12-19,Publicidad pagada
-53,Víctor Escrivá Sola,41,M,Málaga,Una compra,2024-02-19,Recomendación
-54,Salud Arteaga Mendizábal,65,F,Madrid,Recurrente,2023-05-17,Búsqueda orgánica
-55,Marisa Julián Yáñez,52,F,Las Palmas de Gran Canaria,Ocasional,2024-07-20,Redes sociales
-56,Rosario Gomis-Sevillano,58,F,Madrid,Una compra,2024-03-25,Redes sociales
-57,Pedro Salazar Ortega,41,M,La Laguna,Una compra,2024-05-16,Email marketing
-58,Belen Irma Morante Ortuño,43,F,La Laguna,Una compra,2024-11-02,Búsqueda orgánica
-59,Virgilio del Rico,40,M,Extranjero,Una compra,2024-11-05,Redes sociales
-60,Adoración Borrás Morante,35,F,Valencia,Ocasional,2024-06-09,Recomendación
-61,Gustavo Montserrat Meléndez,62,M,Barcelona,Una compra,2025-02-26,Redes sociales
-62,Lope Daza Sevillano,40,M,Valencia,Recurrente,2024-07-19,Evento gastronómico
-63,Victor Roselló-Cano,40,M,Valencia,Ocasional,2024-09-20,Redes sociales
-64,Leopoldo Lobato Jaén,34,M,Alicante,Recurrente,2024-07-19,Email marketing
-65,Mohamed Escamilla Aragón,29,M,Barcelona,Ocasional,2023-04-29,Evento gastronómico
-66,Vinicio de Villalobos,43,M,Santa Cruz de Tenerife,Recurrente,2023-11-07,Redes sociales
-67,Aura Mate-Solano,59,F,Madrid,Una compra,2023-07-01,Búsqueda orgánica
-68,Juan Francisco Villegas Borrell,22,M,Valencia,Una compra,2024-08-12,Email marketing
-69,Edelmira García-Merino,62,F,Arrecife,Ocasional,2023-06-22,Redes sociales
-70,Vicenta Eva Bravo Pallarès,28,F,Madrid,Recurrente,2024-10-11,Email marketing
-71,Prudencia Alegria Franco,45,F,Madrid,Una compra,2024-09-13,Búsqueda orgánica
-72,Aura del Montero,49,F,Santa Cruz de Tenerife,Ocasional,2023-04-16,Redes sociales
-73,Jose Ignacio Palacio Lledó,38,M,Madrid,Ocasional,2023-03-31,Búsqueda orgánica
-74,Seve Feliu Bárcena,36,M,Extranjero,Ocasional,2023-06-22,Evento gastronómico
-75,Margarita Benavente Salvà,37,F,Barcelona,Ocasional,2023-04-07,Búsqueda orgánica
-76,Gema Alberto Prieto,26,F,Madrid,Una compra,2024-06-10,Publicidad pagada
-77,América Feliciana Poza Cabañas,77,F,La Laguna,Una compra,2023-07-18,Email marketing
-78,Federico Conesa Martín,49,M,Madrid,Ocasional,2023-08-13,Evento gastronómico
-79,Georgina Bárbara Piquer Navarro,36,F,Madrid,Ocasional,2024-05-02,Redes sociales
-80,Nicodemo Montserrat Aller,19,M,La Laguna,Ocasional,2024-12-27,Búsqueda orgánica
-81,Encarnita Barberá,39,F,Madrid,Ocasional,2023-05-29,Recomendación
-82,Irene del Ferrández,22,F,Bilbao,Recurrente,2023-12-21,Recomendación
-83,Curro Valero Guzmán,52,M,Valencia,Recurrente,2023-10-10,Redes sociales
-84,Kike Aguiló Azcona,52,M,Extranjero,Una compra,2023-04-25,Redes sociales
-85,Rosendo Girón,27,M,Madrid,VIP,2024-01-09,Email marketing
-86,Juan Francisco Torre Estevez,40,M,La Laguna,Una compra,2024-09-09,Recomendación
-87,Luis Miguel de Calderon,31,M,Las Palmas de Gran Canaria,Una compra,2024-07-31,Redes sociales
-88,Severo Mas Sánchez,33,M,Arrecife,Una compra,2024-04-18,Búsqueda orgánica
-89,Edelmira Sans Ramírez,49,F,Madrid,Una compra,2024-11-09,Publicidad pagada
-90,María Jesús del Iborra,44,F,Madrid,Una compra,2024-07-04,Recomendación
-91,Teo Rafael Infante Ruiz,43,M,Santa Cruz de Tenerife,VIP,2024-10-15,Búsqueda orgánica
-92,Eutropio Abel Ruiz Pintor,39,M,Las Palmas de Gran Canaria,Una compra,2023-08-19,Búsqueda orgánica
-93,Santos Granados Rivas,40,M,La Laguna,Ocasional,2024-08-03,Publicidad pagada
-94,Cintia de Gual,36,F,Las Palmas de Gran Canaria,VIP,2024-06-16,Redes sociales
-95,Ana Sofía Guerrero Ledesma,33,F,Bilbao,Ocasional,2023-09-19,Redes sociales
-96,Aníbal Macias-Gonzalez,43,M,Valencia,Recurrente,2023-08-07,Redes sociales
-97,Teresita Barragán Moya,54,F,Sevilla,Una compra,2024-03-06,Búsqueda orgánica
-98,Odalys Fuente Bayo,22,F,Madrid,Una compra,2025-02-16,Evento gastronómico
-99,Plinio del Gilabert,59,M,Madrid,VIP,2024-02-04,Búsqueda orgánica
-100,Macarena Moraleda Muro,40,F,Madrid,Una compra,2024-04-03,Publicidad pagada
+1,Baldomero Bauzà Palomo,32,M,La Laguna,Ocasional,2024-04-29,Redes sociales
+2,Segismundo Crespo Crespi,62,M,Santa Cruz de Tenerife,Ocasional,2024-03-05,Recomendación
+3,Valeria Larrañaga Gámez,54,F,Madrid,VIP,2024-10-29,Publicidad pagada
+4,Anita Hortensia Padilla Peña,28,F,Barcelona,Ocasional,2024-10-06,Publicidad pagada
+5,Duilio Navas Martorell,45,M,Las Palmas de Gran Canaria,Una compra,2024-10-20,Evento gastronómico
+6,Édgar Sabater Cortes,42,M,Barcelona,Una compra,2024-07-10,Redes sociales
+7,Jacobo Avilés Rodríguez,35,M,La Laguna,Una compra,2024-08-03,Redes sociales
+8,Alejandra Aranda Varela,57,F,Las Palmas de Gran Canaria,Recurrente,2023-09-07,Búsqueda orgánica
+9,Herminio Prada Zamora,20,M,Las Palmas de Gran Canaria,Una compra,2024-09-17,Publicidad pagada
+10,Estela de Solera,50,F,Zaragoza,Recurrente,2023-08-24,Publicidad pagada
+11,Juliana Morillo Porcel,30,F,Sevilla,Una compra,2024-08-02,Recomendación
+12,Sergio Real Barros,28,M,Las Palmas de Gran Canaria,Recurrente,2024-01-28,Publicidad pagada
+13,Severo Acedo Cabrera,52,M,Barcelona,Recurrente,2023-08-09,Recomendación
+14,Che Sánchez Morell,29,M,Valencia,Recurrente,2024-03-31,Redes sociales
+15,Celestina Trujillo Viñas,31,F,Barcelona,Ocasional,2023-05-14,Búsqueda orgánica
+16,Valentín Bas Bayón,43,M,Málaga,Ocasional,2023-06-07,Evento gastronómico
+17,Emma Miralles,45,F,Las Palmas de Gran Canaria,Ocasional,2025-03-16,Búsqueda orgánica
+18,Hilario Peñalver Alcázar,34,M,La Laguna,Una compra,2025-02-17,Recomendación
+19,Bonifacio del Paniagua,18,M,Puerto del Rosario,Ocasional,2024-09-14,Evento gastronómico
+20,Alondra Guardia,54,F,Valencia,Una compra,2024-08-21,Búsqueda orgánica
+21,Graciano Cal Gascón,50,M,Madrid,Una compra,2023-06-12,Búsqueda orgánica
+22,Andrés Felipe Sarmiento Verdugo,44,M,Alicante,Recurrente,2023-08-14,Email marketing
+23,Daniel Agustín Carreras,35,M,Santa Cruz de La Palma,Ocasional,2024-11-15,Recomendación
+24,Coral Saldaña Linares,42,F,Las Palmas de Gran Canaria,Recurrente,2024-03-25,Email marketing
+25,Jacinta Español Cervera,52,F,Las Palmas de Gran Canaria,Una compra,2024-07-25,Publicidad pagada
+26,Josué Núñez-Tur,21,M,Madrid,Recurrente,2023-07-05,Publicidad pagada
+27,Alondra Pinilla Mayoral,37,F,Santa Cruz de Tenerife,Una compra,2024-02-06,Publicidad pagada
+28,Dorotea Nicolasa Fábregas Barrio,33,F,Bilbao,Una compra,2024-11-21,Búsqueda orgánica
+29,Malena del Gómez,30,F,Arrecife,Ocasional,2024-03-07,Búsqueda orgánica
+30,Eleuterio Jove,55,M,Barcelona,Recurrente,2024-06-10,Evento gastronómico
+31,Begoña Rubio Ureña,34,F,Arrecife,Una compra,2024-01-16,Recomendación
+32,Paz Rico Alcázar,37,F,Valencia,Ocasional,2023-09-07,Redes sociales
+33,Aurelia Ponce Tejero,28,F,Las Palmas de Gran Canaria,Una compra,2024-04-30,Redes sociales
+34,Delia Batalla Linares,65,F,Las Palmas de Gran Canaria,Una compra,2025-01-16,Publicidad pagada
+35,Rubén Páez,47,M,Las Palmas de Gran Canaria,Ocasional,2025-03-06,Publicidad pagada
+36,Vicente Escamilla Paredes,38,M,Alicante,Una compra,2024-06-10,Recomendación
+37,Zaira de Ribera,25,F,Barcelona,Ocasional,2024-08-10,Redes sociales
+38,Albina Carnero Ferrer,44,F,Valencia,Una compra,2024-01-16,Evento gastronómico
+39,Virgilio Rivas Zamora,35,M,Las Palmas de Gran Canaria,Una compra,2024-11-16,Búsqueda orgánica
+40,Paloma Martí Mayol,47,F,Sevilla,Ocasional,2023-10-26,Redes sociales
+41,Rosalva Laguna,64,F,Santa Cruz de Tenerife,Ocasional,2024-12-21,Publicidad pagada
+42,Rolando Salazar Ferrera,38,M,Madrid,Recurrente,2024-09-08,Publicidad pagada
+43,Anabel Castrillo,25,F,Sevilla,Una compra,2023-11-16,Búsqueda orgánica
+44,Custodio Ríos Morante,31,M,Madrid,Ocasional,2023-06-13,Email marketing
+45,Ainara del Robles,60,F,Valencia,Una compra,2024-01-15,Recomendación
+46,Purificación Pedrosa Roma,50,F,Bilbao,Ocasional,2023-12-13,Publicidad pagada
+47,Mohamed Cabeza Barrena,59,M,Santa Cruz de Tenerife,Una compra,2023-11-14,Evento gastronómico
+48,Palmira Guillén Carrión,33,F,Puerto del Rosario,Una compra,2024-03-18,Búsqueda orgánica
+49,Rafael Quintero Méndez,20,M,Madrid,Recurrente,2023-05-27,Redes sociales
+50,Lorenza Silva,79,F,Santa Cruz de Tenerife,Recurrente,2024-09-28,Recomendación
+51,Ana Belén Sanmiguel,53,F,Málaga,Una compra,2023-11-03,Redes sociales
+52,Francisco Javier Company Catalán,35,M,La Laguna,Una compra,2025-02-18,Recomendación
+53,Teresa Olmedo Villar,27,F,Barcelona,Una compra,2023-11-20,Búsqueda orgánica
+54,Gertrudis Jódar Avilés,54,F,Santa Cruz de Tenerife,Ocasional,2023-06-03,Redes sociales
+55,Gil Nicolau Azcona,55,M,Madrid,Una compra,2024-10-02,Redes sociales
+56,Lope del Cervera,30,M,Barcelona,Ocasional,2024-02-25,Evento gastronómico
+57,Consuela Blanca Viñas,50,F,Santa Cruz de Tenerife,VIP,2023-04-09,Recomendación
+58,Andrés del Bru,47,M,La Laguna,Ocasional,2023-07-30,Publicidad pagada
+59,Nicodemo Fuertes Mendez,25,M,Santa Cruz de Tenerife,Ocasional,2024-12-30,Búsqueda orgánica
+60,Jessica Moles Pons,63,F,Valencia,Una compra,2024-06-05,Email marketing
+61,Manu Córdoba Lucas,49,M,Las Palmas de Gran Canaria,Ocasional,2024-07-28,Publicidad pagada
+62,Cleto Alcaraz Calvet,45,M,Santa Cruz de Tenerife,Ocasional,2024-09-28,Evento gastronómico
+63,Amancio Bautista Gonzalo,53,M,Valencia,VIP,2025-02-19,Redes sociales
+64,Julieta Casanovas Company,37,F,Santa Cruz de Tenerife,Una compra,2023-04-04,Redes sociales
+65,Apolonia Galván-Jódar,33,F,Santa Cruz de La Palma,Una compra,2024-04-30,Publicidad pagada
+66,Pepe Morcillo Marin,33,M,Málaga,Una compra,2024-08-14,Búsqueda orgánica
+67,Itziar del Prats,42,F,Zaragoza,Ocasional,2024-04-16,Redes sociales
+68,Kike Gutiérrez-Feliu,51,M,La Laguna,Recurrente,2025-02-17,Email marketing
+69,Aníbal Cervantes,59,M,La Laguna,Recurrente,2024-07-26,Recomendación
+70,José Ángel Mulet,27,M,Arrecife,VIP,2024-03-14,Búsqueda orgánica
+71,Natividad Cerdán Garcia,31,F,Santa Cruz de Tenerife,Ocasional,2023-04-11,Email marketing
+72,Rafaela Barranco Alberdi,36,F,Santa Cruz de Tenerife,Una compra,2023-12-31,Búsqueda orgánica
+73,Eustaquio de Castelló,43,M,La Laguna,Una compra,2023-09-01,Redes sociales
+74,Balduino del Arenas,33,M,Las Palmas de Gran Canaria,Una compra,2024-07-03,Redes sociales
+75,Cloe Ariño Olivares,35,F,Madrid,Una compra,2024-03-14,Recomendación
+76,Itziar Tecla Cabezas Raya,52,F,Madrid,VIP,2023-07-05,Publicidad pagada
+77,Lorenzo Fabra Rosell,38,M,Zaragoza,Recurrente,2024-03-31,Búsqueda orgánica
+78,Loreto Miguel Ordóñez,62,M,La Laguna,Una compra,2024-03-25,Búsqueda orgánica
+79,Dorita Gras Castejón,25,F,Barcelona,Una compra,2024-01-29,Búsqueda orgánica
+80,Bárbara Sans Guitart,36,F,Madrid,Ocasional,2024-05-08,Publicidad pagada
+81,Quirino Roig Solsona,44,M,Santa Cruz de Tenerife,Una compra,2024-01-31,Email marketing
+82,Rosario Madrid-Torrent,41,M,La Laguna,Una compra,2024-02-01,Búsqueda orgánica
+83,Rosario Vicente Frutos,49,M,Zaragoza,Una compra,2024-12-22,Búsqueda orgánica
+84,Agustín Abellán-Valderrama,34,M,Extranjero,Una compra,2023-07-19,Recomendación
+85,Mariano Sacristán,41,M,Barcelona,VIP,2024-08-04,Recomendación
+86,Adelina del Muro,42,F,Barcelona,Recurrente,2025-02-28,Redes sociales
+87,Amarilis de Serra,49,F,Madrid,Una compra,2024-02-06,Publicidad pagada
+88,Prudencia Anguita Valbuena,41,F,Málaga,Una compra,2023-08-17,Redes sociales
+89,Salomón Somoza-Paz,30,M,Las Palmas de Gran Canaria,Una compra,2023-05-05,Publicidad pagada
+90,Coral Robles Vega,46,F,Valencia,Una compra,2024-10-14,Email marketing
+91,Maite Mercader,59,F,Valencia,Una compra,2023-05-22,Redes sociales
+92,Ulises Barriga Rovira,57,M,Barcelona,Recurrente,2023-06-07,Publicidad pagada
+93,Gerónimo Victoriano Cal Carrión,79,M,Puerto del Rosario,Una compra,2024-02-29,Email marketing
+94,Jeremías Gaya Pombo,39,M,Valencia,Ocasional,2023-08-25,Publicidad pagada
+95,Guiomar del Pintor,50,M,Santa Cruz de Tenerife,Recurrente,2024-07-10,Recomendación
+96,Federico Martorell Duarte,41,M,Barcelona,Recurrente,2025-02-09,Email marketing
+97,Susanita del Miranda,45,F,Málaga,Recurrente,2023-07-05,Búsqueda orgánica
+98,Lupita Juliá Sanz,41,F,Alicante,Recurrente,2023-07-19,Recomendación
+99,Íngrid Lucena Barragán,36,F,Santa Cruz de Tenerife,Ocasional,2023-10-17,Recomendación
+100,Luna Pagès Quiroga,24,F,Las Palmas de Gran Canaria,Ocasional,2024-07-08,Redes sociales
